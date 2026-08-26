@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1786486445.9284 "agenda2030.tex" "agenda2030.pdf" "agenda2030" 1786486446.11105 2
+  "/etc/texmf/web2c/texmf.cnf" 1786473587.75132 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1786473621 8213067 2ac65558939c93065293ecc0295abc1c ""
+  "agenda2030.aux" 1786486445.92801 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "agenda2030.tex" 1786486434.20759 19283 6dd78e4c3d6e48bd58c8b5097d740926 ""
+  "config/documento.tex" 0 -1 0 ""
+  (generated)
+  "agenda2030.aux"
+  "agenda2030.log"
+  "agenda2030.pdf"
+  (rewritten before read)

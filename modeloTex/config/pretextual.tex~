@@ -1,0 +1,47 @@
+\makeatletter
+\begin{titlepage}
+    \begin{figure}[H]
+    \vspace{-3cm}
+    \centering
+    \includegraphics[height=3cm,keepaspectratio]{config/coverpage}\hfill
+    \par\vspace{1cm}
+    \end{figure}
+    \begin{figure}[H]
+    \vspace{-2cm}
+    \centering
+    \includegraphics[height=3cm,keepaspectratio]{config/contabeis.png}
+    \par\vspace{1cm}
+    \end{figure}
+    
+    \vspace{2cm}
+    
+	\begin{center}
+	    {\huge \bfseries \@title}
+	    \begin{flushright}
+		\begin{minipage}{8cm}
+			\preambulo
+		\end{minipage}
+	\end{flushright}
+	\vspace{3cm}
+	    \normalsize
+	    \autorA \par\vspace{0.5cm} \autorB
+	\end{center}
+	
+\vfill
+\centering
+{\large Curitiba-PR, \the\year}
+
+\end{titlepage}
+\makeatother
+
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents
+\newpage
+
+
+\titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Huge  \thechapter. }
+\newcommand{\doubletoprule}{%
+  \specialrule{.1em}{2pt}{2pt}%
+  \specialrule{.1em}{0pt}{0pt}%
+}

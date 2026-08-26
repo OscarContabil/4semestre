@@ -1,0 +1,7 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\numberline {1}Estudo de caso}{2}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Descrição do casos}{2}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}item 1}{2}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Posicionamento}{2}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.4}item 2}{3}{subsection.1.0.4}%
+\contentsline {subsection}{\numberline {1.0.5}Posicionamento}{3}{subsection.1.0.5}%

@@ -1,0 +1,7 @@
+PWD /home/oscar/4semestre/sc329Sustentabilidade/trabalhos/agenda2030
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT agenda2030.tex
+OUTPUT agenda2030.log

@@ -1,0 +1,53 @@
+* <2026-08-06 qui>
+** Capital Social
+** Reserva de Capital
+*** ägio na venta de ações
+** Reserva de Lucro
+*** Reserva legal
+**** 5% do Lucro Liquido deve ir para reserva de capital até o limite de 20% do Capital social integralizado. Facultativamente , em substituição aos 5% do lucro líquido pode ser o valor que faça a Reserva de Capital  + Reserva Legal  chegar até 30% do  Capital Social alcançar . Sempre limitado ao máximo permitido para a reserva legal que é 20% do Capital Social.  
+*** Reserva estatutária
+**** deve estar definida no estatuto social com finalidade específico
+*** reserva de contingência
+**** reserva para evento possível futuro cujo valor possa ser estipulado. Deve ser revertido para Lucro do exercício  quando a possibilidade do evento desapareça.
+** Ajustes de avaliação patrimonial
+** Ações em tesouraria
+** (-) Prejuízos Acumulados
+** (-) Ações em tesouraria 
+** Lucros acumulados (temporário deve ir para reserva ou distribuído) SA nãp pode)
+** Dividêndos Adicionais Propostos
+* <2026-08-12 qua>
+** Calculo do lucro líquido
+*** do lucro liquido apurado na DRE deve ser destinado primeiramento para cobrir prejuizos de exercicios anteriores.
+*** se não tem prejuizo ou após a cobertura dos prejuizos houver saldo 
+* <2026-08-17 seg>
+** Lucro Líquido ajustado
+*** Lucro líquido 
+*** (-) Prejuizo de exercicios anteriores
+*** (-) Resrva de incentivos Fiscal
+*** (-) Reserva Legal
+*** (-) Reserva de contingência
+*** (+) reversão da reserva de contingência
+** Lucro liquido acumulado.
+*** Nas empresas de capital abarto esta conta é transitória , todo o lucro liquido do exercicio dete ter uma destinação
+* <2026-08-19 qua>
+** exercicio 
+* <2026-08-24 seg>
+** Exercicio 12 calculo de dividendos minimos
+*** Lucro Líquido 300
+*** (-) Lucro de Incentivos fiscais 0
+*** (-) Constituição da reserva Legal 10
+*** (-) Constituição da reserva de Contingência 60
+*** (+) freversão de reservas de contingência 0
+*** base de calculo para Disribuição de lucro 230 <- vai para calculo de reserva de lucro a realizar
+*** 50% distribuição minima 115
+** Exercicio 12  Lucro possivel para distribuir no exercicioir par ao passivo
+*** Lucro liquido 300
+*** Lucro não realizado 240
+*** Lucro Realizado no exercicio 60
+** Exercicio 12 Calculo de reserva de expansão
+*** Lucro Liquido 300
+*** (-) Constituição da reserva Legal 10
+*** (-) Constituição da reserva de Contingência 60
+*** (-) Dividendos 60
+*** (-) reerva de lucro a realizar 55 (55+60 =115 = 50% de 230 que é a base de calculo dos dividendos
+*** (-) 

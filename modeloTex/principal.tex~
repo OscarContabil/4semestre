@@ -1,0 +1,487 @@
+%\setlength{\columnsep}{12pt}      % espaço entre colunas
+%\setlength{\columnseprule}{0.2pt} % linha vertical entre colunas
+
+\input{config/documento}
+
+\title{Exercício 1 - Ativo Imobilizado}
+
+\def\autorA{Oscar Sérgio Monteiro\\
+\texttt{oscar.monteiro@ufpr.br}}
+
+\def\disciplina{SC303 - Contabilidade Intermediárioa, turma a}
+\def\professor{Celso da Rosa Filho}
+
+
+\begin{document}
+\input{config/pretextual}
+\chapter{Resolução}
+\subsection{Plano de contas}
+\begin{center}
+% BEGIN RECEIVE ORGTBL mytab
+\begin{tabular}{ll}
+\toprule
+Código & Descricao\\
+\midrule
+1 & Ativo\\
+1.1 & Circulante\\
+1.1.1 & Caixa e equivanelte\\
+1.1.2 & Banco\\
+1.2 & Não Circulante\\
+1.2.1 & Realizável a Longo Prazo\\
+1.2.2 & Investimentos \\
+1.2.3 & Imobilizavel \\
+1.2.3.1 & Móveis e Utensílios \\
+1.2.3.1.1 & Balção\\
+1.2.3.1.2 & (-) Deprec. Acum. Balcão\\
+1.2.3.1.3 & Mesa\\
+1.2.3.1.4 & (-) Deprec. Mesa\\
+1.2.3.1.5 & Outros Móveis e Utensílios\\
+1.2.3.1.6 & (-) Deprec. Acum. Móveis e Utensílio\\
+1.2.3.2 & Edificações\\
+1.2.3.3 & (-) Deprec. Acum. Edificações\\
+2 & Passivo \\
+2.1 & Passivo Circulante\\
+2.2 & Passivo Não Circulante\\
+2.3 & Capital \\
+2.3.1 & Capital Subctrito\\
+2.3.2 & (-) Capital a integralizar\\
+2.3.3 & Lucros/prejuisos Acumulados \\
+3 & Receitas\\
+3.1 & Receitas Operacionais\\
+3.1.1 & Receitas com vendas\\
+3.2 & Receitas Não Operacionais\\
+3.2.1 & Receitas Com Venda de Ativo Imobilizado\\
+4 & Despesas\\
+4.1 & Custos da Prestação de Serviços\\
+4.2 & Custo na Alienação de Ativo\\
+\bottomrule
+\end{tabular}
+% END RECEIVE ORGTBL mytab
+\end{center}
+
+\subsection{Razonetes}
+\begin{multicols}{3}
+\begin{center}
+\textbf{ATIVO CIRCULANTE}
+\end{center}
+
+\begin{center}
+\textbf{Bancos}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Debito & Credito\\
+\doubletoprule
+ 35.000,00 & \\
+ & 2.000,00\\
+ 80.000,00 & \\
+ & 33.000,00 \\
+ & 12.000,00 \\
+ 500,00 & \\
+\bottomrule
+ 83.500,00 & 47.000,00 \\
+\bottomrule
+ 36.500,00 & \\
+\end{tabular}
+\end{center}
+\begin{center}
+\textbf{IMOBILIZADO}
+\end{center}
+\begin{center}
+\textbf{Balção}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+2.000,00 & \\
+\bottomrule
+\end{tabular}
+\end{center}
+\begin{center}
+\textbf{(-)Deprec. acum. Balção}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 165,00\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+
+\begin{center}
+\textbf{Veículos}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+12.000,00 & \\
+\bottomrule
+\end{tabular}
+\end{center}
+\begin{center}
+\textbf{(-)Deprec. acum. Veículos}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 1.333,33\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{Mesa}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+2.000,00 & 2.000,00\\
+\bottomrule
+\end{tabular}
+\end{center}
+\begin{center}
+\textbf{(-)Deprec. acum. Mesa}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 651,67 \\ 
+ & 141,67 \\
+ 651,67 & \\ 
+ 141,67 & \\
+\bottomrule
+ 793,34 & 793,34 \\
+\bottomrule
+
+
+\end{tabular}
+
+\end{center}
+
+\begin{center}
+\textbf{Outros Imóveis}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+8.000,00 & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{(-)Deprec. acum. Outros Imnóveis}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 2.683,33\\
+ & 700,00\\
+\bottomrule
+  & 3.383,33 \\
+
+
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{Edificações}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+20.000,00 & \\
+\bottomrule
+\end{tabular}
+\end{center}
+\begin{center}
+\textbf{(-)Deprec. acum. Edificações}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 3.400,00\\
+ & 680,00\\
+\bottomrule
+  & 4.080,00 \\
+
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{PATRIMÔNIO LÍQUIDO}
+\end{center}
+
+\begin{center}
+\textbf{Capital Social}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 25.000,00 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{Lucro Acumuloado}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 1.265,00\\
+ & 30.291,33\\
+\bottomrule
+ 0,00 & 31.556,33 \\
+\bottomrule
+  & 31.556,33 \\
+
+
+
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{PASSIVO}
+\end{center}
+\begin{center}
+\textbf{IR a pagar}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 12.982,00 \\
+ \bottomrule
+\end{tabular}
+\end{center}
+
+
+\begin{center}
+\textbf{RECEITAS}
+\end{center}
+\begin{center}
+\textbf{Receitas com vendas}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ & 80.000,00 \\
+\bottomrule
+  \textcolor{blue}{80.000,00} \\
+
+\end{tabular}
+\end{center}
+\begin{minipage}\{\linewidth}
+\begin{center}
+\textbf{Resultado com Venda de Imobilizado}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+ 2.000,00 & 500,00\\
+ & 141,67\\
+ & 651,67\\
+\bottomrule
+ 2.000,00 & 1.293,27 \\
+\bottomrule
+ 706,67 & \\
+
+
+
+
+\end{tabular}
+\end{center}
+\end{minipage}
+\newline
+\begin{minipage}{\linewidth}
+\begin{center}
+\textbf{DESPESAS}
+\end{center}
+\begin{center}
+\textbf{Custos da Prestação de Serviços}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+33.000,00 & \\
+\bottomrule
+ 33.000,00 & \textcolor{blue}{33.000,00} \\
+\end{tabular}
+\end{center}
+\end{minipage}
+\begin{minipage}{\linewidth}
+\begin{center}
+\textbf{Despesas com depreciação no exercício}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito \\
+\doubletoprule
+ 165,00 &   \\
+ 1.333,33 &   \\
+ 141,67 &   \\
+ 700,00 &   \\
+ 680,00 &   \\
+\bottomrule
+ 3.020,00 & \textcolor{blue}{3.020,00} \\
+\end{tabular}
+\end{center}
+\end{minipage}
+\newline
+\begin{minipage}{\linewidth}
+\begin{center}
+\textbf{Imposto de Renda}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito\\
+\doubletoprule
+12.982,60 & \\
+ & \textcolor{blue}{12.982,00}  \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{minipage}
+\end{multicols}
+
+\begin{center}
+\textbf{Apuração do Resultado do Exercício}
+\end{center}
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Débito & Credito \\
+\doubletoprule
+& 80.000,00 \\
+ 706,67 & \\
+ 33.000,00 & \\
+ 3.020,00 & \\
+ 12.982,00 & \\
+\bottomrule
+ 49.708,67 & 80.000,00 \\
+\bottomrule
+  & 30.291,33 \\
+
+
+
+
+
+
+
+
+\bottomrule
+  & \textcolor{green}{30.291,29} \\
+\end{tabular}
+\end{center}
+\begin{minipage}{\linewidth}
+\subsection{Planilha de calculo de depreciação}
+\begin{center}
+\begin{tabular}{lllllr}
+Item & Aquisição & Residual & Vida ùtil & Deprec. & no Período\\
+\toprule
+Balção  & 2.000,00 & 200,00 & 10 anos & ano 180,00 mês 15,00 & 165,00\\
+Veículo & 12.000,00 & 2.000,00 & 5 anos & ano 2.000,00 mês 166,67 & 1.333,33\\
+Edificação & 20.000,00 & 3.000,00 & 20 anos & ano 680,00 mês 56,67 & 680,00\\
+Mesa & 2.000,00 & 300,00 & 10 anos & ano 170,00 mês 14,16 & 141,67\\
+\makecell{Outros Moveis \\e Utencílios} & 8.000,00 & 1.000,00 & 10 anos & ano 700,00 mês 58,33 & 700,00 \\
+\bottomrule
+\multicolumn{6}{r} 3.020,00\\
+\end{tabular}
+\end{center}
+\end{minipage}
+\subsection{DRE}
+\begin{center}
+Demosntração do Resultado Execício\\
+Cia. Santo André\\
+Exercicio Fiscal 01-01-20x7 a 31-12-20x7\\
+\begin{tabular}{llllr}
+\multicolumn{4}{l}{Receitas Bruta com Prestação de Serviços} & 80.000,00\\
+(-) & \multicolumn{3}{l}{Deduções}  & 0,00\\
+=   & \multicolumn{3}{l}{Receitas líquida com Prestação de Serviçõs} & 80.000,00\\
+(-) & \multicolumn{3}{l}{Custo da prestaçao de serviço} & 33.000,00\\
+= & \multicolumn{3}{l}{Lucro Bruto} & 47.000,00\\
+(-)& \multicolumn{3}{l}{Despesas Operacionais} & 3.726.67\\
+   & (-) & \multicolumn{2}{l}{Administrativas} & 3.020,00\\
+   &     & (-) & Despesas com Depreciação & 3.020,00\\
+   & (-) & \multicolumn{2}{l}{Outras Receitas/Despesas Operacionais}  & 706,73\\
+   &     & (-)  & Resultado na Venda de Imobilizado &  706,73\\
+= & \multicolumn{3}{l}{Resultado antes resulultado financeiro} & 43.273,33\\
+(+-) & \multicolumn{3}{l}{Resultado Financeiro} & 0,00\\
+= & \multicolumn{3}{l}{Lucro Antes do Imposto de Renda} & 43.273,33\\
+(-) &\multicolumn{3}{l}{ IRPJ / CSLL} & 12.982,00\\
+= & \multicolumn{3}{l}{Lucro Líquido} & 30.291,33\\
+\end{tabular}
+\end{center}
+\subsection{Balanço}
+\begin{center}
+% BEGIN RECEIVE ORGTBL mytab
+\begin{tabular}{llr}
+\toprule
+Código & Descricao\\
+\midrule
+1 & Ativo &69.538,34\\
+1.1 & Circulante& 36.500,00\\
+1.1.1 & Caixa e equivanelte & 0,00\\
+1.1.2 & Banco & 36.500,00\\
+1.2 & Não Circulante & 33.038,34\\
+1.2.1 & Realizável a Longo Prazo & 0,00\\
+1.2.2 & Investimentos & 0,00 \\
+1.2.3 & Imobilizavel & 33.038,34 \\
+1.2.3.1 & Móveis e Utensílios & 6.451,67 \\
+1.2.3.1.1 & Balção & 2.000,00\\
+1.2.3.1.2 & (-) Deprec. Acum. Balcão & (165,00)\\
+1.2.3.1.3 & Outros Móveis e Utensílios & 8.000,00\\
+1.2.3.1.4 & (-) Deprec. Acum. Móveis e Utensílio& (3.383,33)\\
+1.2.3.2 & Veículos & 12.000,00\\
+1.2.3.3 & (-) Deprec. Acum. veículos & (1.333,33)\\
+1.2.3.2 & Edificações & 20.000,00\\
+1.2.3.3 & (-) Deprec. Acum. Edificações & (4.080,00)\\
+2 & Passivo & 69.538,34 \\
+2.1 & Passivo Circulante & 12.982,00\\
+2.1.1 & Impostos a Pagar & 12.982,00\\
+2.2 & Passivo Não Circulante & 0,00\\
+2.3 & Capital & 56.556,34 \\
+2.3.1 & Capital Subctrito & 25.000,00\\
+2.3.2 & (-) Capital a integralizar & 0,00\\
+2.3.3 & Lucros/prejuisos Acumulados & 31.556,34 \\
+\bottomrule
+\end{tabular}
+% END RECEIVE ORGTBL mytab
+\end{center}
+\end{document}

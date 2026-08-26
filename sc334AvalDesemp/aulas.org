@@ -1,0 +1,22 @@
+* <2026-08-10 seg>
+** história
+** Japão ; teoria Z ; melhoria contínua
+** conceitos
+*** Objetivo
+*** Dxesempenho
+**** Capacidade de uma organização produzir o resultado compatível com sues objetivos
+* <2026-08-24 seg>
+** Indicadores financeiros :
+*** Historicamente gerados no sec. XX com foco no resultado financeiro, sendo o desempenho focando o lucro.
+*** Grupos
+**** Liquidez
+***** Liquides Corrente: Ativo Circulante / Passivo Circulante
+***** Liquides Seca: (ativoCirculante -Estoques) / Passivo Circulante
+***** Liquidez Geral: Ativo Circulante + Ativo Não Circulante (Realizavel a longo prazo  Não considera Investimentos Intengível Imobilizado) / (Passivo Circulante + Passivo Não circulante)
+**** Endividamento
+***** Custo da dívida
+***** Custo de Capital Próprio
+**** Rentabilidade
+**** Eficiência
+**** Produtividade
+**** Valuation
