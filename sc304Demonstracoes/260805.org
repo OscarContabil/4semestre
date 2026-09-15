@@ -1,20 +1,22 @@
 * <2026-08-06 qui>
 ** Capital Social
+*** (-) Capital a integralizar 
 ** Reserva de Capital
 *** ägio na venta de ações
+** Ajustes de avaliação patrimonial
 ** Reserva de Lucro
 *** Reserva legal
 **** 5% do Lucro Liquido deve ir para reserva de capital até o limite de 20% do Capital social integralizado. Facultativamente , em substituição aos 5% do lucro líquido pode ser o valor que faça a Reserva de Capital  + Reserva Legal  chegar até 30% do  Capital Social alcançar . Sempre limitado ao máximo permitido para a reserva legal que é 20% do Capital Social.  
 *** Reserva estatutária
 **** deve estar definida no estatuto social com finalidade específico
-*** reserva de contingência
+*** Reserva de contingência
 **** reserva para evento possível futuro cujo valor possa ser estipulado. Deve ser revertido para Lucro do exercício  quando a possibilidade do evento desapareça.
-** Ajustes de avaliação patrimonial
-** Ações em tesouraria
+*** Reserva de insentivo Fiscal
+** (-) Ações em tesouraria
 ** (-) Prejuízos Acumulados
-** (-) Ações em tesouraria 
-** Lucros acumulados (temporário deve ir para reserva ou distribuído) SA nãp pode)
-** Dividêndos Adicionais Propostos
+** Lucros acumulados (não existe em SA que deve dar uma destinação específica para os resultados)
+** Dividêndos Adicionais Propostos  
+*** se referem a SAs , os dividendos obrigatórios são calculados e saem da DRE para o passivo, não passam pelo PL, o que sobre alem do obrigatorio fica nesta conta temporariamente até a assembléia descidir a destinação.
 * <2026-08-12 qua>
 ** Calculo do lucro líquido
 *** do lucro liquido apurado na DRE deve ser destinado primeiramento para cobrir prejuizos de exercicios anteriores.

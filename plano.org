@@ -1,3 +1,5 @@
+
+
 * SC334 - AVALIAÇÃO DE DESEMPENHO ORGANIZACIONAL
 ** ANTONIO CESAR PITELA
 ** horario de aulas
@@ -33,7 +35,7 @@
 *** Sexta-Feira - 21:00 - 22:00
 *** Sexta-Feira - 22:00 - 23:00
 ** data de provas
-*** 22/09
+*** 18/09
 *** 24/11
 ** Avaliação
 *** 90% prova 
@@ -55,7 +57,7 @@
 *** 2.2. Ponto de Equilíbrio Contábil, Econômico e Financeiro
 *** 2.3. Margem de Segurança Operacional
 *** 2.4. Alavancagem Operacional e Risco Operacional
-** Segunda Prova, peso 25%, 01/10
+** Segunda Prova, peso 25%, 15/10
 ** Terceira Prova peso 25%, 12/11 ou 19/11
 * SC329 - SUSTENTABILIDADE AMBIENTAL E SOCIAL
 ** Professor ELCÍDIO HENRIQUES QUIRAQUE

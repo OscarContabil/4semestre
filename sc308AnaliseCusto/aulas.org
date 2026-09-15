@@ -23,3 +23,28 @@
 *** Despesas Variável
 **** ICMS Sobre as vendas
 * <2026-08-25 ter>
+* <2026-08-27 qui>
+** Exercicio Agua curitibana
+** Ponto de equilibrio econômico
+** Ponto de equilibrio financeiro
+** Ponto de equilibrio contábil
+* <2026-09-01 ter>
+** Margem de segurança
+| produção total         |    980927 |           |           | Global |
+| Produto                |        20 |     500ml |     1,5 l |        |
+| Mix de Vendas          |      9.8% |    78.43% |    11.77% |        |
+| PEC                    |           |           | 115455.11 |        |
+| Unidade vendidas       |    150000 |   1200000 |    180000 |        |
+| Margem de segurança    | 53869.154 | 430658.95 |  64544.89 |        |
+| Margem de contribuição |       5.8 |       0.4 |       0.8 |        |
+| Preço de venda         |        11 |         1 |         2 |        |
+| Produto                |        20 |     500ml |     1,5 l | global |
+| RECEIRA PEC            | 1057439.3 |           |           |        |
+| Receita de Vendas      |   1650000 |           |           |        |
+| margem de segurança R$ |  592560.7 |           |           |        |
+| Margem de Seg %        | 35.912770 |     35,89 |     35,86 | 35,90  |
+#+TBLFM: $2=@-1*@1$2
+* <2026-09-02 qua>
+** Exercicio Caso NexoSul
+*** 
+

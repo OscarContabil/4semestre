@@ -1,0 +1,30 @@
+
+Archived entries from file /home/oscar/4semestre/atividades.org
+
+
+* DONE  <2026-09-01 ter> Reunião Edpo CentralServer
+CLOSED: [2026-09-03 qui 10:30] DEADLINE: <2026-09-02 qua 15:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-03 qui 10:31
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS/Geral
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-03 qui 10:30]
+:END:
+
+
+* DONE Consulta Oftalmo Dra. Heloisa Russ <2026-08-26 qua>
+CLOSED: [2026-09-04 sex 09:40] DEADLINE: <2026-09-03 qui 15:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-04 sex 10:00
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-04 sex 09:40]
+:END:

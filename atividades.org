@@ -1,51 +1,50 @@
+#+ARCHIVE:  ~/4semestre/Arquivo.org::
+* HELP
+** C-c C-x C-s -> org-archive-subtree
 * PESSOAIS 
 ** Geral
 *** TODO <2026-08-26 qua> Levar roupa para arrumar e camisa para lavar 
-** TODO Consulta Dr. Gylson 
-DEADLINE: <2026-08-27 qui 14:10>
-** TODO Consulta Dr. Francisco Polanski
-DEADLINE: <2026-08-31 seg 09:10>
-*** Consultório no Hospital São lucas , entrada pela Av. Paraná
-*** Unimed
+*** TODO <2026-08-27 qui> criar serviço de redirecionamento de e-mail.
+**  TODO Fazer oculos novos <2026-09-04 sex>
+** TODO Palestra no CRC sobre reforma tributária.
+** TODO travesia Itapema. Onibus as 8:30 poltrona 28 Reserva Hotel Solaris # 029369 entrada dia 19 os3...
+DEADLINE: <2026-09-19 sáb 8:30>
+** TODO Ressonancia Magnética Seios da Face
+DEADLINE: <2026-09-12 sáb 09:55>
 ** TODO Consulta Dr. Armando Secondino Ortopedista
 DEADLINE: <2026-10-01 qui 11:15>
 *** Consultório na Clínica Belluno Av. Vicente Machado 2322
 *** Valor da consulta R$ 500,00
+** TODO Consulta Paulo Albuquerque
+DEADLINE: <2026-09-18 sex 11:00>
+** TODO Palestra sobre Reforma tributério CRC 
+DEADLINE: <2026-09-17 qui 8:30>
+* PROVAS
+** 09/09 Silvia SC304
+** 10/09 Allison SC308
+** 16/09 Elcidio SC329
+** 18/09<2026-09-18 sex> Caludio Marcelo SC324
+** 01/10 Mariana  SC365
+** 13/10 Allison SC308
+** 09/11 Silvia SC304
+** 20 ou 24/ 11 Claudio SC324
+** 26/11 Mariaca SC365
+** 27/11 Elcidio SC329
+** 30/11 Silvia SC304
 * SC334  - Analise de desempenho Organizacional
-** TODO EAD Capitulo 3
-DEADLINE: <2026-08-30 dom>
-** TODO EAD capitulo 2
-DEADLINE: <2026-08-22 sáb>
-** DONE EAD capitulo 1
-CLOSED: [2026-08-24 seg 19:06] DEADLINE: <2026-08-16 dom>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2026-08-24 seg 19:06]
-:END:
-
 *  SC304 - ESTRUTURA E ELABORAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS
-** Lista de exercíciios 2
+** TODO Lista de exercíciios 2
 Deadline: <2026-08-26 qua>
-** Atividade EAD 4 
-DEADLINE: <2026-08-30 dom>
-** DONE Lista de exercícios 2026 SC304 ATIVIDADE 3 - EAD\
-CLOSED: [2026-08-24 seg 18:55] DEADLINE: <2026-08-23 dom>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2026-08-24 seg 18:55]
-:END:
- Data de conclusão 23 de agosto de 2026 às 23:59•1 envio permitido•
-Fecha 23 de agosto de 2026 às 23:59
-Instruções
-Leia as instruções do formulário. Tempo de resposta é de 30 min. a partir do início.
-
 *  SC308 - ANÁLISE DE CUSTOS
-** DONE EAD SC 308
-CLOSED: [2026-08-24 seg 18:55] DEADLINE: <2026-08-23 dom>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2026-08-24 seg 18:55]
-:END:
-Primeiro Teste – Análise de Custos
-Data de conclusão 23 de agosto de 2026 às 23:59•1 envio permitido•
-Fecha 23 de agosto de 2026 às 23:59
-** Revisar as listas de exercícios
+** TODO Revisar as listas de exercícios
 DEADLINE: <2026-08-26 qua>
-
+**  TODO Lista caso Nexuz
+DEADLINE: <2026-09-02 qua>
+* SC324 - MÉTODOS QUANTITATIVOS AVANÇADOS
+** TODO Listas de 1 a 4 <2026-09-01 ter>
+DEADLINE: <2026-09-13 dom>
+* TJ-PR
+** Edital de Divulgação da Data, Hora e Local das Provas Teórico-Objetiva e Discursiva 09/10/2026 no site da FUNDATEC
+DEADLINE: <2026-10-09 sex>
+** Aplicação das Provas Teórico-Objetiva e Discursiva – data provável 18/10/2026
+DEADLINE: <2026-10-18 dom>

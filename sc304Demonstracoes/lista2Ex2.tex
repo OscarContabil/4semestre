@@ -1,0 +1,51 @@
+* Recaptulação: lista as contas do PL
+** Patrimômio Líquido
+*** Capital Social
+****  Capital Social Integralizado
+**** (-) Capital social a integralizar
+*** Reserva de Capital
+**** Ágio na venda de ações
+**** (-) custos de distribuição
+*** Reserva de lucro
+**** Reserva legal
+**** Reservas de Inscentivos Fiscais
+**** Reservas Estatutárias
+**** Reservas de Contingência
+*** Ajustes de Avaliação patriminial
+*** (-) Ações em tesouraria
+*** Prejuizos Acumulados
+*** Reserva de Lucro (não tem em SA)
+*** Dividendos adicionais propostos.
+* Exercicio
+
+
+
+| Conta               | Exercicio 0 | Exercicio 1 |
+|---------------------+-------------+-------------|
+| Capital Social      |      800000 |             |
+| Reserva Legal       |      120000 |     145.000 |
+| REserva Eepansão    |      200000 |     300.000 |
+| Reserva Estatutária |      100000 |       50.00 |
+| Divi. Adic. Propo.  |             |     182.500 |
+|---------------------+-------------+-------------|
+| Total               |     1120000 |             |
+#+TBLFM: @>$2=vsum(@2..@-1) 
+
+
+
+| Item                   | composição     | Referencia 1 | Referencia 2 |   Valor |
+| Lucro liquido          |                |              |              | 500000. |
+| Reserva Já constituida |                |              |              | 120000. |
+| LImite I               | 500000 * 5%    |           5% |              |  25000. |
+| LIMITE ii              | 800000 * 30%   |       800000 |          30% | 240000. |
+|                        | Limite II - R. |              |              | 120000. |
+| reserva constituida    | 120000         |       228000 |              |         |
+#+TBLFM: $5=@-1-@-3::@4$5=@-2*$-2
+
+
+
+| movimentação  | Cap. Social | R. Legal | R. Estat. | Res. Ex. | ORA | Div. Obrig. | Total |
+| Saldo Inicial |             |          |           |          |     |             |       |
+|               |             |          |           |          |     |             |       |
+* 
+* 

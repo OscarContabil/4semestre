@@ -1,0 +1,155 @@
+* <2026-08-06 qui>
+** Capital Social
+*** (-) Capital a integralizar 
+** Reserva de Capital
+*** ägio na venta de ações
+** Ajustes de avaliação patrimonial
+** Reserva de Lucro
+*** Reserva legal
+**** 5% do Lucro Liquido deve ir para reserva de capital até o limite de 20% do Capital social integralizado. Facultativamente , em substituição aos 5% do lucro líquido pode ser o valor que faça a Reserva de Capital  + Reserva Legal  chegar até 30% do  Capital Social alcançar . Sempre limitado ao máximo permitido para a reserva legal que é 20% do Capital Social.  
+*** Reserva estatutária
+**** deve estar definida no estatuto social com finalidade específico
+*** Reserva de contingência
+**** reserva para evento possível futuro cujo valor possa ser estipulado. Deve ser revertido para Lucro do exercício  quando a possibilidade do evento desapareça.
+*** Reserva de insentivo Fiscal
+** (-) Ações em tesouraria
+** (-) Prejuízos Acumulados
+** Lucros acumulados (não existe em SA que deve dar uma destinação específica para os resultados)
+** Dividêndos Adicionais Propostos  
+*** se referem a SAs , os dividendos obrigatórios são calculados e saem da DRE para o passivo, não passam pelo PL, o que sobre alem do obrigatorio fica nesta conta temporariamente até a assembléia descidir a destinação.
+* <2026-08-12 qua>
+** Calculo do lucro líquido
+*** do lucro liquido apurado na DRE deve ser destinado primeiramento para cobrir prejuizos de exercicios anteriores.
+*** se não tem prejuizo ou após a cobertura dos prejuizos houver saldo 
+* <2026-08-17 seg>
+** Lucro Líquido ajustado
+*** Lucro líquido 
+*** (-) Prejuizo de exercicios anteriores
+*** (-) Resrva de incentivos Fiscal
+*** (-) Reserva Legal
+*** (-) Reserva de contingência
+*** (+) reversão da reserva de contingência
+** Lucro liquido acumulado.
+*** Nas empresas de capital abarto esta conta é transitória , todo o lucro liquido do exercicio dete ter uma destinação
+* <2026-08-19 qua>
+** exercicio 
+* <2026-08-24 seg>
+** Exercicio 12 calculo de dividendos minimos
+*** Lucro Líquido 300
+*** (-) Lucro de Incentivos fiscais 0
+*** (-) Constituição da reserva Legal 10
+*** (-) Constituição da reserva de Contingência 60
+*** (+) freversão de reservas de contingência 0
+*** base de calculo para Disribuição de lucro 230 <- vai para calculo de reserva de lucro a realizar
+*** 50% distribuição minima 115
+** Exercicio 12  Lucro possivel para distribuir no exercicioir par ao passivo
+*** Lucro liquido 300
+*** Lucro não realizado 240
+*** Lucro Realizado no exercicio 60
+** Exercicio 12 Calculo de reserva de expansão
+*** Lucro Liquido 300
+*** (-) Constituição da reserva Legal 10
+*** (-) Constituição da reserva de Contingência 60
+*** (-) Dividendos 60
+*** (-) reerva de lucro a realizar 55 (55+60 =115 = 50% de 230 que é a base de calculo dos dividendos
+*** (-) 
+* <2026-09-02 qua>
+|------------------------------+---------|
+| Patriminio Liquido           | Periodo |
+| Capital Social               |  15.000 |
+| Reserva de Capital           |         |
+| Ajustes de Avaliação Petrim. |         |
+| Reserv Legal                 |     220 |
+| Reserv. contingência         |     230 |
+| Reserva Estatutario          |   1.050 |
+| Dividendos Adicionais        |     120 |
+| (-) Ações em tesouraria      |         |
+| (-) prejuizo acumulado       |         |
+|------------------------------+---------|
+|                              |         |
+
+
+|------------------------+--------+-------------+----------+---------+----------+---------+-----+----------+---------|
+| mov.                   | Cap.S. | Resev. Cap. | R. Legal | R.Cont. | R.Estat. | Res.Ex. | ORA | Div.Adic |  #ERROR |
+|------------------------+--------+-------------+----------+---------+----------+---------+-----+----------+---------|
+| Saldo Inicial          |  15000 |           0 |      220 |     230 |     1050 |         |     |      120 |   16620 |
+| Trans. de Cap.c/socio  |        |             |          |         |          |         |     |          |       0 |
+| Aument de cap.         |   5000 |             |          |         |          |         |     |          |    5000 |
+| Agio.                  |        |        1350 |          |         |          |         |     |          |    1350 |
+| Custo de Transação     |        |        -300 |          |         |          |         |     |          |    -300 |
+| Dividendos Destinados  |        |             |          |         |          | -827.50 |     |     -120 |  -947.5 |
+| Dividendos Adic. Prop. |        |             |          |         |          | -172.50 |     |    172.5 |      0. |
+| Resultado Abrang.      |        |             |          |         |          |         |     |          |       0 |
+| Lucor liq.             |        |             |          |         |          |    1500 |     |          |    1500 |
+| ORA                    |        |             |          |         |          |         |  18 |          |      18 |
+| Mov. Internas          |        |             |          |         |          |         |     |          |       0 |
+| Const. Reserv. Legal   |        |             |          |         |          |         |     |          |       0 |
+| Revers.Reserv. Contin. |        |             |          |    -230 |          |     230 |     |          |       0 |
+| Const. Reserv. Contin  |        |             |       75 |         |          |     -75 |     |          |       0 |
+| Aumento. Cap.          |   1000 |             |          |         |    -1000 |         |     |          |       0 |
+| SALDO Final            |  21000 |        1050 |      295 |       0 |       50 |    655. |  18 |    172.5 | 23240.5 |
+#+TBLFM: @>$2..$9=vsum(@2..@-1)::$10=$2+$3+$4+$5+$6+$7+$8+$9
+
+
+** Calculo do lucro a distribuir
+|-----------------------------------------------+-------|
+| Lucro liquido                                 |  1500 |
+| (-) Constituição da reserva fiscal            |     0 |
+| (-) Cosntituição da reserva Legal             |   -75 |
+| (-) Constituição da reserva de Contingência   |     0 |
+| (+) reversão da reserva de Contingencia       |   230 |
+| Base de calculo da distribuição de dividendos |  1655 |
+| distribuição obrigatoriso 50%                 | 827.5 |
+|                                               |       |
+#+TBLFM: @>$2=@1$2+@2$2+@3$2+@4$2+@5$2::$2=.5@-1$2
+
+** Ordem da movimentação no Demo. de Movimentação do PL
+** observar a ordem das colunas
+*** movimentação que alteram o saldo do Cap. Social
+*** Movimentação das contas de reserva de capital
+*** Dividendos Destinados
+*** Dividendoas Adicionais (é o dividendo obrigatório e outro referente a perios anterior)
+*** Resultado abrengene total que é 
+**** resultado do exercico
+**** ORA Ouros resultados Abrangentes
+*** Movimentações das reservas
+* <2026-09-14 seg>
+** Demonstrações de Resultados Abranêntes
+REsultado Abrangente é toda e qualquer variação no PL , exceto aqueles provenientes de trasnações com os sócios.
+** ORA Ortros Resultados Abrangêntes
+*** Reavaliação de Ativos Imobilizado (não é permitido no Brasil)
+*** Variação cambial de investimentos
+*** Ajustes de Valor Justo AVJORA
+*** Hegde Acconting
+*** Ganhos ou Perdas Atuariais
+** Formas 
+*** forma 1
+ No formado de DRE acrescido com as linhas de Resultados Abrengênte
+*** forma 2
+**** DRE
+**** DRA
+     Na pimeira linha do DRA aparece o Resultado Líquido do exercicio, seguido das movimentações abrangêntes
+     Os resultados abrangêntes deve ter dois grupos:
+***** itens que podem aferar o resultado operacional futuro
+***** itens que nunca vão afetar a resultado operacional.
+** Exercicios
+*** Ex1
+**** A empresa abc tenha apurado lúcro líquido de R$ 3.000,00 , alem dos seguintes lucros: 
+***** ganho de variação cambial de participação sosietário no valor de $ 400, (sem efeito fiscal)podendo ser reclassificado para resultado.
+***** perdas atuariais no valor de $ 1.200,00 (não podendo ser reclassifica. p/o resultado
+***** ganhos por ravaili
+
+| Demonstração dos Resultados Abrangentes | 2026 |
+| Outros resultados abrangentes           |      |
+| itens qur                               |      |
+**** DRA 
+***** Resultado Liqiodo 3.000
+***** Outros Resultados Abrangentes
+****** itens que podem ser reclassificados
+******* Ganho de variação Cambial
+****** itens que não podem ser reeclassificados
+******* Perdas atuariais (1.200)
+******* Efeito Fiscal (360)
+******* Ganho por reavalizção de Ativos 1.000
+******* Efeito Fiscal  (300)
+***** Resultado líguido abrangente 
