@@ -2,29 +2,27 @@
 * HELP
 ** C-c C-x C-s -> org-archive-subtree
 * PESSOAIS 
-** Geral
+** À Planejar
 *** TODO <2026-08-26 qua> Levar roupa para arrumar e camisa para lavar 
-*** TODO <2026-08-27 qui> criar serviço de redirecionamento de e-mail.
-**  TODO Fazer oculos novos <2026-09-04 sex>
-** TODO Palestra no CRC sobre reforma tributária.
-** TODO travesia Itapema. Onibus as 8:30 poltrona 28 Reserva Hotel Solaris # 029369 entrada dia 19 os3...
-DEADLINE: <2026-09-19 sáb 8:30>
-** TODO Ressonancia Magnética Seios da Face
-DEADLINE: <2026-09-12 sáb 09:55>
-** TODO Consulta Dr. Armando Secondino Ortopedista
-DEADLINE: <2026-10-01 qui 11:15>
-*** Consultório na Clínica Belluno Av. Vicente Machado 2322
-*** Valor da consulta R$ 500,00
-** TODO Consulta Paulo Albuquerque
-DEADLINE: <2026-09-18 sex 11:00>
-** TODO Palestra sobre Reforma tributério CRC 
-DEADLINE: <2026-09-17 qui 8:30>
+*** TODO <2026-08-27 qui> Criar serviço de redirecionamento de e-mail.
+*** TODO <2026-09-04 sex> Fazer oculos novos 
+* INFRAESTRUTURA
+** À planejar
+*** <2026-09-15 ter> Cópia do repositório pessoal para o celular
 * PROVAS
-** 09/09 Silvia SC304
-** 10/09 Allison SC308
-** 16/09 Elcidio SC329
-** 18/09<2026-09-18 sex> Caludio Marcelo SC324
+** primeira prova Silvia SC304 
+*** nota da prova 22 de 30
+*** nota das atividades EAD 3.5 de 3.5
+** primeira pprova Allison SC308
+*** Nota da prova 50 de 100
+** 1Primeira prova Elcidio SC329
+*** NOta da prova 100 de 100
+** primeira prova Caludio Marcelo SC324
+*** nota 7,27
 ** 01/10 Mariana  SC365
+DEADLINE: <2026-10-01 qui>
+** 05/10 Pitela SC334
+DEADLINE: <2026-10-05 seg>
 ** 13/10 Allison SC308
 ** 09/11 Silvia SC304
 ** 20 ou 24/ 11 Claudio SC324
@@ -33,16 +31,19 @@ DEADLINE: <2026-09-17 qui 8:30>
 ** 30/11 Silvia SC304
 * SC334  - Analise de desempenho Organizacional
 *  SC304 - ESTRUTURA E ELABORAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS
-** TODO Lista de exercíciios 2
-Deadline: <2026-08-26 qua>
+** EAD Atividade 9
+DEADLINE: <2026-10-04 dom>
 *  SC308 - ANÁLISE DE CUSTOS
-** TODO Revisar as listas de exercícios
-DEADLINE: <2026-08-26 qua>
-**  TODO Lista caso Nexuz
-DEADLINE: <2026-09-02 qua>
+** fazer  Exercício Integrado_ABC0810
+DEADLINE: <2026-10-08 qui>
 * SC324 - MÉTODOS QUANTITATIVOS AVANÇADOS
-** TODO Listas de 1 a 4 <2026-09-01 ter>
-DEADLINE: <2026-09-13 dom>
+* SC334 - VALIAÇÃO DE DESEMPENHO ORGANIZACIONAL
+DEADLINE: <2026-10-05 seg>
+** Primeira prova 
+*** capitulos de 1 a 5 da apostila
+* SC329 - Sustentabilidade
+** Resumo IRFS S1 e S2 upa pagina manuscrita de cada norma
+DEADLINE: <2026-10-05 seg>
 * TJ-PR
 ** Edital de Divulgação da Data, Hora e Local das Provas Teórico-Objetiva e Discursiva 09/10/2026 no site da FUNDATEC
 DEADLINE: <2026-10-09 sex>

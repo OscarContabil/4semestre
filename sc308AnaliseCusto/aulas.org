@@ -47,4 +47,233 @@
 * <2026-09-02 qua>
 ** Exercicio Caso NexoSul
 *** 
+* <2026-09-17 qui>
+** Custeio ABC ou custeiro baseado em atividades
+*** Revisão custeio por absorçao
+**** Diretos 
+***** Custos
+***** Despesas
+**** Indiretos - sempre tem um critério de alocação o critério pode ter vies
+***** Custos
+***** Despesas
+*** Custo ABC tenta minimizar o vies dos critérios
+*** Historico
+**** Robin Cooper e Robert Kaplan (1980)
+**** fatores dão relevância ao metodo
+***** automação 
+***** diversificação de produtos
+***** personalização
+***** redução do tamanho de lote
+***** requisitos de qualidade mais exigênte 
+*** recursos - quais meios a organizaçao utiliza para a produção ou prestação do serviço
+**** custos e despesas indiretas
+*** atividades 
+*** objetivos - de qual serviços ou produto ou cliente queremos conhecer o custo?
+*** direcionador -  representação do cosumo eu a demanda (direcionador Tempo)
+* <2026-10-01 qui>
+** Exercício custos baseado em atividade
+*** custos / despesas  diretos indiretos 
+#+NAME: t1
+| 1 |     |                       | Consulta | Exames de Ecocardiograma | Exame Ergometrico |
+| 2 |     | Preço de venda        |      400 |                      320 |               290 |
+| 3 | (-) | Custo direto          |      124 |                      139 |               142 |
+| 4 | (-) | Custo Indireto        |    22.72 |                      191 |            155.31 |
+| 5 | (=) | Resultado Bruto       |   253.28 |                      -10 |             -7.31 |
+| 6 | (-) | Despesas Direta       |       24 |                       16 |              14.5 |
+| 7 | (-) | Despesas Indiretas    |    55.63 |                    55.63 |             55.63 |
+| 8 | (=) | Resultado Operacional |   173.65 |                   -81.63 |            -77.44 |
+#+TBLFM: $1=@#::@5$4=@-3-(@-2+@-1)::@5$5=@-3-(@-2+@-1)::@5$6=@-3-(@-2+@-1)::@8$4=@-3-(@-2+@-1)::@8$5=@-3-(@-2+@-1)::@8$6=@-3-(@-2+@-1)
+** Tabela de Recursos usados
 
+** Tabelas de Atividades
+#+NAME: t2
+|   | Código | Descricao                                                |
+|   | A1     | Agendas                                                  |
+|   | A2     | Disponibilizar preparaçaodo ambiente da consult ou exame |
+|   | A3     | Realizar consulta                                        |
+|   | A4     | Realizar exames                                          |
+|   |        |                                                          |
+**  Tabela de direcionador atividades
+
+|   | Recurso | Direcionador     | A1 | A2 | A3 | A4 |
+|   | Malu    | Tempo despendido |  0 | 10 |    |    |
+|   |         |                  |    |    |    |    |
+** Custos de atividades
+|   | A1 | A2 | AX | A4 |   |
+|   |    |  0 |    |    |   |
+#+TBLFM: @1$2=remote(t2,@2$2)::@1$3=remote(t2,@3$2)::@1$4=remote(t2,@4$2)::@1$5=remote(t2,@5$2)
+* <2026-10-06 ter>
+exercicio da fábrica de móvies
+* <2026-10-08 qui>
+** aula expositica tema TDABC - Time-Driven Activity-Based Cost
+*** Se parte da estrutura ficou sem utilização, quem deve pagar por esse tempo: o serviço realizado ou o resultado da empresa?
+*** limites do custeio abc
+**** O custeio abc tem dificuldade para identificar o tempo de horas não utilizadas. Em entrevista com os funcionários a informaçao vem com viez. 
+**** Dinâmica de alterações de atividades tende a ser maior que a frequencia de ajustes do modelo.
+**** Inadequado para empresas com muitos produtos e muitas atividades
+*** conceitos
+**** Capacidade teórica
+**** Capacidade prática
+**** Capacidade não utilizada (capacidade ociosa) = Teórica - Prática
+ | Descrição | valor |
+ |           |       |
+*** Algoritimo de calculo
+**** apurar  custo mesal
+***** salario R$ 3.600
+***** encargos 60% R$ 2.160
+***** salarios mais encargos R$ 5.760
+***** 10 funcionários = R$ 57.600
+**** identificar as atividades e identificar o tempo de cada atividade
+***** Processamento de pedido 8 min
+***** Atendimento a cliente 20 min
+***** Analise de crédito 32 min
+**** identificar a capacidade teórico
+***** numero de funcionários 10
+***** disa uteis no mes 20
+***** numero de horas dia 8 equivale a 480 min
+***** 480 min * 20 dias 9.600 por funcionário
+***** 9.600 * 10 funcionários 96.000 = capacidade teórica
+**** apurar a capacidade prática
+***** capacidade teórica 96.000 
+***** 80% de efetividade
+***** capacidade prética 76.800 minutos
+**** obter o custo por minuto (Taxa de Custo da Capacidade)
+***** Custo total R$ 57.600
+***** Capacidate prática total 76.800
+***** 76.800/57.600 =  R$ 0.75 /min
+**** Tabela de atendimentos realizados
+| atividade          | cliente a | cliente b | cliente c | total |
+| Pedido             |        40 |        25 |        60 |  6000 |
+| atendimento        |         4 |        12 |         2 |   400 |
+| Analise de crédito |           |           |           |   300 |
+|                    |           |           |           |       |
+* <2026-10-13 ter>
+** Custo TDABC
+*** Atividades
+**** processar pedidos 8 min * .75  R$ 6,00
+**** resolvar problemas comerciais 20 min * .75 R$ 15,00
+**** Realizar analise de crédito 32 *.75 = R$ 24,00
+| 1 | atividade          | cli.a | cli b | cli c | ocorrencias | total R$ | total Min. | com otm. min | em R$ |
+| 2 | Pedido             |   240 |   150 |     0 |        6000 |    36000 |      48000 |        48000 | 36000 |
+| 3 | atendimento        |    60 |   180 |     2 |         400 |     6000 |       8000 |         8000 |  6000 |
+| 4 | Analise de crédito |    15 |    30 |    15 |         300 |     7200 |       9600 |         6000 |  4500 |
+| 5 |                    |   324 |   378 |   414 |             |   49.200 |      65600 |              |       |
+| 6 |                    |       |       |       |             |          |            |              |       |
+#+TBLFM: $1=@#
+*** Taxa de capacidade utilizada
+**** (Cap.utilizada / Cap.Total ) * 100
+*** Taxa de capacidade não utilizada
+**** (cap.pratica - Capacidade Utilizada) / Cap.Pratica)  *  100 ou i=taxa de capacidade utilizada
+*** 
+* <2026-11-03 ter>
+** Custos Padão segunda aula. (não estive na primeira aulo do tema)
+**                         Custo Padrão — conceitos básicos                        
+1) O que é                                                                      
+Custo padrão é um custo predeterminado pela empresa para servir como referência 
+de controle. Ele representa quanto deveria custar produzir um bem ou serviço em 
+condições normais.                                                              
+2) Para que serve                                                               
+Serve para:                                                                     
+ • planejar custos;                                                             
+ • controlar a produção;                                                        
+ • comparar o custo real com o esperado;                                        
+ • identificar desvios;                                                         
+ • apoiar decisões gerenciais.                                                  
+--------------------------------------------------------------------------------
+3) Ideia central                                                                
+A empresa define um padrão de consumo e gasto, por exemplo:                     
+ • quantos kg de matéria-prima seriam usados;                                   
+ • quantas horas de mão de obra seriam necessárias;                             
+ • qual o custo esperado desses recursos. Depois compara com o realizado.       
+--------------------------------------------------------------------------------
+4) Diferença entre custo padrão e custo real                                    
+Custo padrão                                                                    
+É o custo previsto, estimado ou ideal.                                          
+Custo real                                                                      
+É o custo que de fato ocorreu na produção. A análise gerencial compara os dois. 
+5) Tipos de custo padrão                                                        
+a) Padrão ideal                                                                 
+É o custo em condições perfeitas, sem desperdícios. É muito rigoroso e, muitas  
+vezes, difícil de atingir.                                                      
+b) Padrão corrente                                                              
+É o custo esperado em condições normais e factíveis. É o mais usado na prática. 
+c) Padrão histórico ajustado                                                    
+Baseia-se em dados passados, corrigidos por mudanças esperadas.                 
+6) Variação ou desvio                                                           
+A diferença entre o custo real e o custo padrão é chamada de variação ou desvio.
+[ Variação = Custo\ real - Custo\ padrão ]                                      
+ • Se o resultado for positivo: custo acima do esperado                         
+ • Se for negativo: custo abaixo do esperado                                    
+--------------------------------------------------------------------------------
+7) Exemplo simples                                                              
+Se a empresa esperava gastar R$ 10 por unidade e gastou R$ 12: [ Variação = 12 -
+10 = 2 ] Houve desvio desfavorável de R$ 2 por unidade.                         
+8) Elementos do custo padrão                                                    
+Normalmente envolve:                                                            
+ • matéria-prima;                                                               
+ • mão de obra direta;                                                          
+ • custos indiretos de fabricação. Cada elemento pode ter seu próprio padrão.   
+--------------------------------------------------------------------------------
+9) Vantagens                                                                    
+ • melhora o controle;                                                          
+ • facilita o planejamento;                                                     
+ • ajuda a medir eficiência;                                                    
+ • permite identificar desperdícios.                                            
+--------------------------------------------------------------------------------
+10) Limitações                                                                  
+ • exige revisão constante;                                                     
+ • pode ficar defasado;                                                         
+ • padrões muito rígidos desmotivam;                                            
+ • depende da qualidade dos dados.                                              
+--------------------------------------------------------------------------------
+11) Resumo curto                                                                
+Custo padrão é o custo previamente fixado como meta ou referência, usado para   
+comparar com o custo real e controlar a eficiência da produção. Se quiser, eu   
+posso continuar com:                                                            
+ 1 tipos de padrão com exemplos;                                                
+ 2 cálculo de variações de matéria-prima e mão de obra;                         
+ 3 ou resumo em tabela.                                                         
+** essa tabela mostra o custo total para a produção real que no exemplo foram 4500 cadeidar
+| material   | Quant padrão | Preço Padrão |  #ERROR | Preço Padrão |  #ERROR |   #ERROR |
+| Est. meta. |         4500 |          105 |  472500 |          108 |  486000 |    13500 |
+| espuma     |         4500 |           45 |  202500 |        49.40 | 222300. | 222250.6 |
+| Tecido     |         4500 |         43.2 | 194400. |         42.5 | 191250. | 191207.5 |
+| Kit Compo  |         4500 |         14.4 |  64800. |         14.8 |  66600. |  66585.2 |
+|            |              |              | 934200. |              | 966150. |  966150. |
+|            |              |              |       0 |              |       0 |        0 |
+#+TBLFM: $4=$-1*$-2::$6=$-1*$-4::$7=($-1)-($-2)::@6$4=@-1+@-2+@-3+@-4::@6$6=@-1+@-2+@-3+@-4::@2$7=(@2$-1)-(@2$-3)
+** essa tabela deve mostrar o valor que era esperado comparando a variação em função do custo de compra maior ou menor e o custo R$ pela utilização de uma quantidade maior ou menor que quantidade padão.
+| material   | Real compra | Cons. pad. | Preço Pad. | preço real | Cons.real | <> compra | <>  producao |
+| Est. meta. |        4500 |          1 |        105 |     472500 |       108 |    486000 |        13500 |
+| espuma     |        8550 |        1.9 |         26 |     202500 |     49.40 |   222300. |     222250.6 |
+| Tecido     |       11500 |       4500 |       43.2 |    194400. |      42.5 |   191250. |     191207.5 |
+| Kit Compo  |        4500 |       4500 |       14.4 |     64800. |      14.8 |    66600. |      66585.2 |
+|            |             |            |            |    934200. |           |   966150. |      966150. |
+|            |             |            |            |          0 |           |         0 |            0 |
+** dois elementos o preó por unidade e o preço pedrão que considera a quantidade padrão. Logo exeite um preço padão e uma quantidade padrão que é por unidade produzida e o preço padrão é  na unidade de medida de compra que deve ser a unidade de medida de consumo. 
+** o resultado da analise deve mostrar para cada item:
+*** o Preço do material esta acima ou abaixo do padrão
+*** a quantidade consumoda está abaixo ou acima do padrão
+** 
+* <2026-11-05 qui>
+** Custo Padrão
+*** Materiais Diretos (aula Passada)
+**** relaçao de preços (preço planejado vs Preço realizado) PP = Preço Planejado QP = Quantidade Planejada 
+***** VP = QP*PR - QR*PP 
+**** relaçao de fixa técnica  (quantidade da fixa técnica vs Consumo efetivo de matéria prima)
+***** VQ = (QR*PP)- (QP*PP)
+*** Mão de Obra  - foco no controle de variação 
+**** Preço da Hora  - Variação de taxa, valor da hora
+**** Quantidade de horas - Horas Padrão -  Variação de eficiência
+**** HR - Horas reais  =  São obtidas pela medição das horas realmente usadas na produção 
+**** HP - Horas Padrão = Unidades fabricadas  * Tempo padão por unidade 
+**** TR - Taxa real por hora = Custo total da MOD / Horas efetivamente aplicadas na produção
+**** TP - Taxa padão - Custo hora da Mão de Obra (MOD mão de obra direta)
+**** CPT  =  HP * TP Custo Padrão Total
+**** CRT = HR * TR Custo Real Total
+**** Variação Total = CRT - CPT
+**** VTaxa  - Variação com a taxa de MOD = HR * (TR-TP)
+****  VEficiencaio = (HR-HP) * TP
+** Existe relação das variações possíveis nos custos de Mão de Obra com as variações dos materiais diretos.
+*** variação da qualidade da máteria proma  pode causar efeito no tempo de produção 
+*** variação na qualidade da mão de obra pode inplicar em consumo de mais matéria prima.

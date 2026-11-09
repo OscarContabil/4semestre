@@ -1,0 +1,187 @@
+% \setlength{\columnsep}{12pt}
+% espaço entre colunas %\setlength{\columnseprule}{0.2pt} % linha vertical entre colunas
+\input{config/documento}
+\title{Exercício Estudo de Caso}
+\def\autor{Oscar Sérgio Monteiro}
+\def\disciplina{SC334 - Avaliação de Desempenho Organizacional, turma b}
+\def\professor{Antônio César Pitela}
+\begin{document}
+\input{config/pretextual}
+\chapter{Caso Metalfort Componentes Industriais}
+\section{Atividades}
+\subsection{Questão 6.1}
+Calcule, para 2024 e 2025, as margens bruta, operacional e líquida, o ROA, o ROE, a liquidez corrente e a liquidez seca. Calcule também o crescimento da receita em 2025.\\
+\subsubsection{2024 DRE}
+ \begin{tabular}{p{10cm} r}                                                     
+ \toprule                                                                       
+ \textbf{Descrição} & \textbf{Valor (R\$)} \\                                   
+ \midrule                                                                       
+ Receita Bruta de Vendas & 8.000.000,00 \\                                        
+ (-) Deduções da Receita Bruta & (0,00) \\                                 
+ \midrule                                                                       
+ Receita Líquida & 8.000.000,00 \\                                                 
+ (-) Custo dos Produtos Vendidos (CPV) & (5.200.000,00) \\                         
+ \midrule                                                                       
+ Lucro Bruto & 2.800.000,00 \\                                                     
+ (-) Despesas Operacionais & (1.600.000,00) \\                                     
+ \midrule                                                                       
+ Lucro Operacional & 1.200.000,00 \\                                               
+ (+/-) Resultado Financeiro & (0,00) \\                                     
+ \midrule                                                                       
+ Lucro Antes do IR e CSLL & 780.000,00 \\                                        
+ (-) IR e CSLL & (0,00) \\                                                  
+ \midrule                                                                       
+ \textbf{Lucro Líquido do Exercício} & \textbf{780.000,00} \\                    
+ \bottomrule                                                                    
+ \end{tabular}                                                                  
+\subsubsection{2024 Indicadores}
+ \begin{tabular}{p{5cm} l}                                                     
+ \toprule                                                                       
+ \textbf{Descrição} & \textbf{Valor (R\$)} \\                                   
+ \midrule                                                                       
+ Margem Bruta & 35\% = 2.800/8.000 \\                                        
+ \midrule                                                                       
+ Margem Operacional  & 15\% = 1.200/8.000 \\                                                 
+ \midrule                                                                       
+ Margem Líquida & 9,75\% = 780/8.000 \\                                                     
+  \midrule                                                                       
+ ROA & 13,45\% = 780/5.800 \\                                               
+ \midrule                                                                       
+ ROE & 24,38\% = 780/3.200 \\                                        
+ \midrule                                                                       
+ Liquidez Corrente & 1.5 = 2.400 / 1.500 \\                                        
+ \midrule                                                                       
+ Liquidez Seca & 1.0667 = 2.400 - 800 /  1.500 \\ 
+ \bottomrule                                                                    
+ \end{tabular}                                                                  
+\subsubsection{2025 DRE}
+ \begin{tabular}{p{10cm} r}                                                     
+  \toprule                                                                       
+ \textbf{Descrição} & \textbf{Valor (R\$)} \\                                   
+ \midrule                                                                       
+ Receita Bruta de Vendas & 9.200.000,00 \\                                         
+ (-) Deduções da Receita Bruta & (0,00) \\                                 
+ \midrule                                                                       
+ Receita Líquida & 9.200.000,00 \\                                                 
+ (-) Custo dos Produtos Vendidos (CPV) & (6.164.000,00) \\                         
+ \midrule                                                                       
+ Lucro Bruto & 3.036.000,00 \\                                                     
+ (-) Despesas Operacionais & (1.950.000,00) \\                                     
+ \midrule                                                                       
+ Lucro Operacional & 1.086.000,00 \\                                               
+ (+/-) Resultado Financeiro & (0,00) \\                                     
+ \midrule                                                                       
+ Lucro Antes do IR e CSLL & 670.000,00 \\                                        
+ (-) IR e CSLL & (0,00) \\                                                  
+ \midrule                                                                       
+ \textbf{Lucro Líquido do Exercício} & \textbf{670.000,00} \\                    
+ \bottomrule                                                                    
+ \end{tabular}                                                                  
+\subsubsection{2025 Indicadores}
+ \begin{tabular}{p{5cm} l}                                                     
+ \toprule                                                                       
+ \textbf{Descrição} & \textbf{Valor (R\$)} \\                                   
+ \midrule                                                                       
+ Margem Bruta & 33\% = 3.036/9.200 \\                                        
+ \midrule                                                                       
+ Margem Operacional  & 11,8\% = 1.086/9.200 \\                                                 
+ \midrule                                                                       
+ Margem Líquida & 7,28\% = 670/9.200 \\                                                     
+  \midrule                                                                       
+ ROA & 10,15\% = 670/6.600 \\                                               
+ \midrule                                                                       
+ ROE & 19,42\% = 670/3.450 \\                                        
+ \midrule                                                                       
+ Liquidez Corrente & 1.359 =  2.650 / 1.950 \\                                        
+ \midrule                                                                       
+ Liquidez Seca & 0,8205 =  2.650 - 1.050 / 1.950 \\ 
+ \bottomrule                                                                    
+ \end{tabular}                                                                  
+\subsection{Questão 6.2}
+Compare os resultados financeiros de 2025 com 2024 e com as metas. Identifique os indicadores que melhoraram e os que se deterioraram.
+\subsubsection{2025 Indicadores}
+\hspace*{-1cm}                                                                 
+ \begin{tabular}{p{3cm} l l l l l}                                                     
+ \toprule                                                                       
+ \textbf{Descrição} & \textbf{2024} & \textbf{Meta} & \textbf{2025} &  \textbf{Meta} & \textbf{Comparação}  \\                \midrule                                                                       
+ Receita Bruta & R\$ 8.000 mil &  &  R\$ 9.200 mil & +  & $\uparrow$ 1.200 mil \\                                        
+ \midrule                                                                       
+ Margem Bruta & 35\% & + & 33\% & - & $\downarrow$ 2\% \\                                        
+ \midrule                                                                       
+ Margem Operacional  & 15\% & + & 11,8\% & - &  $\downarrow$ 3,2\% \\                                                 
+ \midrule                                                                       
+ Margem Líquida & 9,75\% & +  & 7,28\% & -  & $\downarrow$ 2,47\% \\                                                     
+  \midrule                                                                       
+ ROA & 13,45\% & + & 10,15\% & - & $\downarrow$ 3,3\% \\                                               
+ \midrule                                                                       
+  ROE & 24,38 \% & + & 19,42\% & - &  $\downarrow$ 4,96\% \\                                        
+ \midrule                                                                       
+ Liquidez Corrente & 1.5 & + &  1.359 & -  & $\downarrow$ 0,141 \\                                        
+ \midrule                                                                       
+ Liquidez Seca & 1,0667 & + &   0,8205 & - & $\downarrow$ 0,2462 \\ 
+ \bottomrule                                                                    
+ \end{tabular}                                                                  
+\subsection{Questão 6.3}
+Analise os indicadores não financeiros. Quais metas foram alcançadas? Quais resultados devem receber atenção prioritária?\\
+\subsubsection{Indicadores não financeiros}
+\hspace*{-2cm}                                                                 
+ \begin{tabular}{p{4cm} l  l l l}                                                     
+ \toprule                                                                       
+   \textbf{Descrição} & \textbf{2024} & \textbf{2025} &  \textbf{Meta} & \textbf{Comparação}  \\
+ \midrule
+  Unidades produzidas & 100.000 & 120.000 & + 115.000 & $\uparrow$ 5.000 \\  
+ \midrule
+  Taxa de defeitos & 2,5\% & 4,2\% & $\leq$ 2,5\%  &  $\downarrow$ 2\% \\
+ \midrule                                                                       
+   Horas de retrabalho & 1.800 & 3.300 & $\leq$ 2.000 & $\downarrow$ 1.300 Hs \\
+ \midrule                                                                       
+   Entregas no prazo & 92\% & 84\% & $\geq$ 93 & $\downarrow$ 9\% \\
+ \midrule                                                                       
+   Tempo médio de ciclo & 6,0 dias & 7,4 dias & $\leq$ 5,5 dias & $\downarrow$ 1,9 dias \\
+  \midrule
+   Reclamações de clientes & 210 & 410 & $\leq$ 220 & $\downarrow$ 188 \\
+  \midrule
+   Satisfação dos clientes & 86 pontos & 77 pontos& $\geq$ 85 & $\downarrow$ 8 \\
+  \midrule
+   Rotatividade de pessoal & 9\% & 16\%& $\leq$ 10\% & $\downarrow$ 6\% \\
+  \midrule
+   Treinamento por empregado & 18 horas & 8 horas &  $\geq$ 16 horas & $\downarrow$ 8  \\
+  \midrule
+   Acidentes com afastamento & 2 & 5 & 0 & $\downarrow$ 5 \\
+ \bottomrule                                                                    
+ \end{tabular}\\
+ Face a tantos indicadores fora da meta uma analise mais criteriosa deve ser realizada, entendemos que não se trata de um problema especifico de cada setor e sim problemas de ordem sistêmica. De qualquer forma recomendamos iniciar pelo indicador de Horas de Retrabalho; para um acréscimo de 20\% no número de peças produzidas o tempo de retrabalho foi acrecido em 83\%.
+\subsection{Questão 6.4}
+Explique como a produção pode ter crescido 20\%, enquanto a rentabilidade e vários indicadores operacionais pioraram.\\
+\textbf{Resposta}\\
+Aparentemente a capacidade produtiva, equipamentos e pessoal e processos da empresa deve estar no limite, a meta de crescimento de 12\% do faturamento parece estar desalinhado com a capacidade de produção. O aumento da produção prejudicou muito a eficiência.
+\subsection{Questão 6.5}
+Construa pelo menos duas relações de causa e efeito entre treinamento, rotatividade, qualidade,entregas, satisfação dos clientes e desempenho financeiro.
+\subsection{Questão 6.6}
+A afirmação da diretoria — “o desempenho melhorou porque a receita e a produção cresceram” — é adequada? Apresente uma conclusão fundamentada.\\
+\textbf{Resposta}\\
+A afirmativa e completamente inadequada, todos os indicadores de desempenho pioraram com o acréscimo na produção.\\
+\begin{minipage}{\textwidth}
+\subsection{Questão 6.7}
+Proponha quatro ações gerenciais, indicando para cada uma: problema enfrentado, indicador de acompanhamento, meta e prazo.\\
+\hspace*{-2cm}
+\begin{tabular}{p{3cm} p{4cm} p{3cm} p{2cm} p{2cm}}                                                     
+ \toprule                                                                       
+   \textbf{Problema} & \text{Ação} & \textbf{Indicador} & \textbf{Meta} & \textbf{Prazo}  \\
+ \midrule
+   Deterioração dos indicadores de desempenho & Limitar em 100.000 a produção. & Indicadores atuais & Atingir todas as metas dos atuais  indicadores & 2 meses \\
+ \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Implementar programa Kaisen (foco nos processos). Cada setor será encarregado de um indicador de desempenho e deverá apresentar propostas de inovação, com o esboço de um plano de ação, de forma a permitir o aumento de produção sem prejuízo do indicador em analise. & Quantidade de propostas & Duas propostas por setor & 2 meses \\
+  \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Instituir relatórios semanal de análise de problemas a ser elaborado pelo gerente de cada setor & Entrega do Relatório & Um por semana & Até a estabilização dos indicadores de desempenho \\
+  \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Revesar a adequação dos indicadores & Entrega do Relatório & Relatório completo de revisão de indicadores de desempenho & 2 meses \\
+ \bottomrule                                                                    
+ \end{tabular}
+\end{minipage}
+\subsection{Questão 6.8}
+Elabore um parecer gerencial de 10 a 15 linhas respondendo se o crescimento de 2025 é sustentável.
+\textbf{Resposta}\\
+Avaliando o impacto negativo nos indicadores de desempenho fica evidente que o crescimento da produção em 2025 não é sistentável. Houve impacto negativo em todos os indicadores , inclusive os financeiros, que deveriam normalmente estão fortemente relacionados de forma positiva com o acrescimo de produção. Diminuição no desempenho em indicadores não financeiro, com alguma frequncia tem relação negativa em relação ao crescimento da produção, e de se esperar que situações novas sejam enfrentadas ao mudar  patamar de produção, essa situaçõ tendem a se establizar com o tempo e com medidas que mitigam ou resolvem os novos problemas decorrentes do aumento de produção. No caso em analise se observa um acrescimo desproposcional dos cuto de producão e das despesas operacionais, que de imediato consomem o acrescimo da receita. Observa-se ainda que estes aumentos de custo não foram suficientes para a manutenção da operação no padrão normal esperado. OU seja o que se gastou a mais não foi suficiente para a manutenção dos indicadores de operação no patamar esperado. Prazo de entraga,tempo médio de ciclo de produção foram afetados de forma significatica. Ainda se observou um tempo de retrabalho com crescimento muito acima do esperado, com sonseguencias diretas, na qualidade do produto indicada pela quantidade de reclamações de clientes que cresceu mais de 95\%, considerando essa enorme deteorização da qualidade a queda de 9 pondos no nivel de satisfação do cliente, pode inclusive falar mais a favor de uma inedaquação do processo de menssuraçao ou erro da medida, do que uma minimização do impacto negativo. Dest forma fica evidenciado que o crescimento da produção nõ pode ocorrer, com a atual estrutura operacional.
+
+\end{document}

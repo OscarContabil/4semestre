@@ -1,0 +1,9 @@
+* <2026-10-13 ter>
+** TESTE DE PROPORÇÃO
+*** Conceitos
+**** área de rejeiçao da hipotese nula.
+* <2026-11-03 ter>
+** teste de hipotese de proporçao analisando duas amostras de duas popupalções  
+** 
+* <2026-11-06 sex>
+** teste de média para mais de duas amostras

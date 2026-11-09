@@ -53,3 +53,49 @@ Periculosidade + adicional Noturno e Adicional de Periculosidade
 **** base da categoria ou salário minimo regional ou
 **** média das comissões dos 12 uĺtimo meses
 **** comissão do mês anterior
+* <2026-10-08 qui>
+** Vale alimentaçao e vale refeiçao
+*** Vale alimentaçao para o super mercado apenas para itens de alimentaçao (alcoolicos não)
+*** Vale refeição para o  pagamento em restaurantes
+*** ex inscrita no PAT
+**** R$ 2200,00 salarios
+**** Insalubridade 
+**** R$ 25,00 / dia vale refeiçao
+**** R$ 680,00 Auxílio alimentaçao
+**** desconto de 20% para fins de caracterização da verba indenizatória
+**** empresa inscrita no PAT
+**** VR = 25 x 21 dias uteis = 525,00 20% 105,00
+**** VA R$ 680 20% 136,00
+**** Hoelerio
+***** Salario 2.200
+***** (-) VA ( 136,00)
+***** (-) VR  ( 105,00)
+**** contabilizaçao 
+***** adintamento do VA e VR para o próximo mês
+*** ex. Não inscrita no PAT
+**** o desconto é sobre o salário base e deve ser sempre de 
+** Pensão Alimentícia
+*** percentual sobre verbas de natureza salarial
+* <2026-10-15 qui>
+** Calculo do IR
+*** Base calculo Remuneração - Deduções
+**** Deduções 
+***** Contribuição INSS
+***** Pensão alimentícia
+***** Deduçao por filho dependente
+*** Calculo
+**** verificar a faixa da base de calculo na atabela
+***** colocar aqui a tabela
+** Encargos Patronais
+*** Contribuição patronal INSS
+**** três partes
+***** 20% 
+***** RAT/SAT 1 a 3 % relativo a risco
+***** Sistema S (senai/sesi/sesc)
+****** colocar aqui a tabela 
+******* salario Educação 2,5%
+******* incra ...
+**** desoneração da folha
+***** 
+*** Recolhimento FGTS
+**** 8% ou 8,5% 

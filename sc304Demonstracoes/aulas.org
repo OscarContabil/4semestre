@@ -153,3 +153,115 @@ REsultado Abrangente é toda e qualquer variação no PL , exceto aqueles proven
 ******* Ganho por reavalizção de Ativos 1.000
 ******* Efeito Fiscal  (300)
 ***** Resultado líguido abrangente 
+* <2026-09-30 qua>
+** Demonstração do Valor Agregado
+** Primeira parte apresenta o valor agregado na operação 
+** A segunda parte apresenta para onde foi o valor agragado (distribuiçAo)
+*** tabela
+| 1 |           | Demonstraçao do Valor Adicionado           |   |
+| 2 |           | 1 Receitas                                 |   |
+| 3 |           | 1.1 Receita Bruta                          |   |
+| 4 |           | 1.2 Outras Receitas                        |   |
+| 5 |           | 1.3.PECLD                                  |   |
+| 6 |           | 2 Insumos Adiquiridos                      |   |
+|   |           | 2.1 Custo das Mercadoria e serviço vendido |   |
+|   |           | 2.2 Energia Materiaos e Serviços           |   |
+|   |           | 2.3 Renda de recuperaçao de ativos         |   |
+|   | 1-2=      | Valor Adicionado Bruto                     |   |
+|   |           | 3 Depreciação, amortizaçao , exaustão      |   |
+|   | VAB - 3 = | Valor Adincinado Liquido Produzido na ent. |   |
+|   |           | 4 Valor recebido en transferência          |   |
+|   |           | 4.1 Receitas / despesas de Eq. Patrimonial |   |
+|   |           | 4.2 Outras Receitas/Despesas               |   |
+|   |           | 4.2.1 Re                                   |   |
+#+TBLFM: $1=@#
+* <2026-10-14 qua>
+** exercicios lista 5
+|   | Receita Bruta de vendas              | 4900000 |
+|   | (-) Perd. Est. Cli. Liqui. Duv.      |   25000 |
+|   | Insumos adiquiridos                  |         |
+|   | Custos, prod, e servi                | 2575000 |
+|   | (=) Valor Adicionado Bruto           | 2300000 |
+|   | Depreciacao , amortizacao , exaustao |  250000 |
+|   | (=) Valora Adicionado líq. Produzido | 2050000 |
+|   | Valor Adicionado Rec. Transf         |  100000 |
+|   | . Eq. Pat                            |   35000 |
+|   | . Receita Financ.                    |   65000 |
+|   | (=) Valor Adicionado a Dist.         | 2150000 |
+|   | (=) Valor Adicionado a Dist.         | 2150000 |
+|   | Pessoal                              |  150000 |
+|   | .Salarios                            |  150000 |
+|   | Impostos                             | 1250000 |
+|   | .fed                                 |  275000 |
+|   | estadual  1.200.000 - 225000         |  975000 |
+|   |                                      |         |
+#+TBLFM:
+no exercicio 5 é ORA os 260.000 menos os 90.000
+* <2026-10-28 qua>
+** FLUXO DE CAIXA - DFC Demonstrações de Fluxo de Caixa
+*** Fluxo de caixa operacional
+*** Flixo de caixa de investiventos
+*** Fluxo de caixa financeiro
+**** Capial Próprio
+**** Capital de Terceiros
+*** 
+** Conceitos
+*** atos (movimentações comutativos)
+*** equivalente de caixa
+** Histórico
+*** até lei 11.638/07 não era obrigatória
+* <2026-11-08 dom>
+** Exercicio Lista 6
+*** ex. 1
+    Uma sociedade empresária após elaboração do Balanço Patrimonial e da Demonstração do Resultado, relativas ao exercício social de 20x7, apurou as seguintes informações necessárias à elaboração da DFC – Demonstração dos Fluxos de Caixa do mesmo exercício social, conforme a seguir: 
+**** Classificaao das operações
+***** Aumento do capital social 15.000,00 - Financeira - 
+***** Aumento de clientes (18.000,00) -  Operacional
+***** Venda de Imobilizado 23.000,00 -  Investimento
+***** Aumento de Estoque (45.000,00) -  Operacional
+***** Aumento de Duplicatas descontadas 12.000,00 -  Financeira
+***** Emprestimo de Curto Prazo 34.000,00- Financeira
+***** Depreciaao - 8.000,00  não afeta o Fluxo de caixa
+***** Aquisiçao de Imobilizado (42.500,00)- Investimento
+***** Aumento de Fornecedores 32.000,00 - Operacional
+***** Redução de Salarios a pagar (13.400,00)- Operacional
+***** Lucro Liquido do exercicio -  Não é movimentação
+**** Alternatia correta letra b -      apenas a atividade operacional e de investimento consumiram caixa. 
+*** ex 2.
+    Uma Sociedade Empresária apresentou os seguintes eventos em 2015:  
+**** Classificaçao das contas 
+***** Aquisição de móveis para uso, à vista (R$ 20.000,00) - investimento  
+***** Venda, à vista, de imóvel de uso R$ 200.000,00  - investimento
+***** Baixa do valor contábil do imóvel de uso vendido (R$ 80.000,00) - não movimenta o caixa
+***** Venda de mercadorias à vista R$ 55.000,00 - operacional  
+***** Compra de mercadorias à vista (R$ 30.000,00) - operacional
+Considerando-se o reflexo desses eventos nas atividades apresentadas na Demonstração dos Fluxos de Caixa, é correto afirmar que:  
+**** Geração de caixa liquido = 200 + 55 - (30+20 ) Alternativa b
+*** ex 3
+    Uma entidade contabilizou os seguintes fatos no ano de X1:  
+**** Classificação das contas
+***** • Venda à vista de estoque, cujo valor contábil era de R$ 100.000,00 - (nao afeta ) por R$ 300.000,00 - opercional;
+***** • Pagamento de (R$ 100.000,00) a fornecedores pelo estoque adquirido -  operacional ;  
+***** • Reconhecimento e pagamento de despesas de salários, no valor de (R$ 48.000,00) - operacional;  
+***** • Venda à vista de ativo imobilizado, cujo valor contábil era de R$ 20.000,00(não afeta)  por R$ 35.000,00 -  investimento;  
+***** • Recebimento de R$ 42.000,00 a título de empréstimo bancário - Financiamento.
+Assinale o valor do fluxo de caixa gerado pela Atividade Operacional contabilizado na Demonstração dos Fluxos de Caixa da entidade.  
+****  Caixa gerado nas atividades opercionais  300 - 100 - 48 = 152 Alternativa b
+*** ex 4
+    De acordo com a NBC TG 03 (R3), a demonstração dos fluxos de caixa deve apresentar os fluxos de caixa do período classificados por atividades operacionais, de investimento e de financiamento. Nesse sentido, identifique as atividades e classifique-as como Atividades Operacionais (AO), Atividades de Investimentos (AI) e Atividades de Financiamentos (AF) considerando as alterações introduzidas pelo CPC 51 (NBC TG 51) para as atividades em geral, utilizando o espaço em branco no quadro abaixo. 
+**** Classificacão de contas
+***** Recebimentos de caixa resultantes da venda de ativo imobilizado, intangíveis e outros ativos de longo prazo. - AI
+***** Pagamentos de caixa a fornecedores de mercadorias e serviços. - AO
+***** Recebimentos de dividendos decorrentes de investimentos societários avaliados pelo método de equivalência patrimonial. - AI
+***** Pagamentos de dividendos.  - AF
+***** Pagamentos dos juros de empréstimos (despesa financeira) - AF 
+***** Dividendos recebidos - AF 
+***** Receita financeira (juros recebidos) - AI 
+*** Ex 5
+    Uma empresa que fabrica e vende produtos farmacêuticos apresentou, em 20x1, um aumento no fluxo de caixa consumido pela atividade de investimento. Assinale um possível motivo para tal aumento demonstrado na demonstração dos fluxos de caixa.  
+**** alternativa d - Compra de debêntures emitidas por uma companhia aberta brasileira
+*** Ex 6
+    As informações a seguir foram disponibilizadas pelo Departamento Contábil de uma Sociedade Anônima que atua no setor de comércio. 
+*** Tabela
+
+

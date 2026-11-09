@@ -1,0 +1,143 @@
+% \setlength{\columnsep}{12pt}
+% espaço entre colunas %\setlength{\columnseprule}{0.2pt} % linha vertical entre colunas
+\input{config/documento}
+\title{Exercício Estudo de Caso}
+\def\autor{Oscar Sérgio Monteiro}
+\def\disciplina{SC334 - Avaliação de Desempenho Organizacional, turma b}
+\def\professor{Antônio César Pitela}
+\begin{document}
+\input{config/pretextual}
+\chapter{Caso Conecta Serviços Empresariais}
+\section{Atividades}
+\subsection{Questão 6.1 - Indicadores}
+Calcule, para 2024 e 2025, o crescimento da receita, as margens bruta, operacional e líquida, o ROA e o ROE. Compare 2025 com as metas.
+\begin{tabular}{p{5cm} l l l l }                                                     
+\toprule                                                                       
+\textbf{Indicador} & \textbf{2024} &	\textbf{2025} &	 \textbf{Meta 2025} & \textbf{Conclusão} \\
+\midrule
+Crescimento da receita & -  & 18,00\%	& $\geq$  15,00\% & Ok \\
+\midrule
+Margem bruta &	37,50\% & 31,85\% & $\geq$ 36,00\% & $\downarrow$   \\
+\midrule
+Margem operacional & 15,00\% & 	10,31\% & $\geq$ 14,00\% & $\downarrow$  \\
+\midrule
+Margem líquida	& 9,58\% & 6,21\% &  $\geq$  9,00\% &	 $\downarrow$  \\
+\midrule
+ROA & 16,43\% &	10,48\% & $\geq$ 15,00\% &	 $\downarrow$  \\
+\midrule
+ROE & 28,75\% &	20,23\%	& $\geq$ 25,00\% & $\downarrow$ \\
+ \bottomrule                                                                    
+ \end{tabular}\\                                                                  
+A exeção do crescimento das receitas todas os demias indicadores ficaram abaixo da meta\\ 
+\subsection{Questão 6.2 - Comparação das carteiras}
+Calcule, para as carteiras Essencial e Premium, a margem de contribuição e a receita média por cliente. O maior preço médio da Premium está se convertendo em melhor desempenho?\\
+ \begin{tabular}{p{2cm} l l l}                                                     
+ \toprule                                                                       
+ \textbf{Carteira} & \textbf{Descrição} & \textbf{Referência} & \textbf{Indicador} \\
+ \midrule
+ Essencial & Margem de Contribuiçao & (8.100 – 5.270) / 8.100 * 100  & 34,94\% \\
+ \midrule                                                                       
+ Essencial & Receita média por cliente  & 8.100 / 130  & R\$ 62.307,69  \\                                        
+ \midrule                                                                       
+ Premium &  Margem de Contribuiçao & (6.060 – 4.300) / 6.060 * 100  & 29,04\% \\
+ \midrule                                                                       
+ Premium &  Receita média por cliente  & 6.060 / 48 & R\$ 126.250,00  \\ 
+ \bottomrule                                                                    
+ \end{tabular}
+ Observa-se que a maior receita por cliente não significa necessáriamente uma melhor margem de contribuição\\
+\subsection{Questão 6.3}
+Classifique os indicadores do caso nas perspectivas financeira, clientes, processos internos e aprendizado e crescimento.
+\subsubsection{Indicadores não financeiros}
+\hspace*{-2cm}                                                                 
+ \begin{tabular}{p{4cm} l }                                                     
+ \toprule                                                                       
+   \textbf{Indicador} & \textbf{Categoria} \\
+ \midrule
+Crescimento da receita & financeiro \\
+\midrule
+Margem bruta & financeiro \\
+\midrule
+Margem operacional & financeiro \\
+\midrule
+Margem líquida & financeiro \\
+\midrule
+ROA & financeiro \\
+\midrule
+ROE & financeiro \\
+\midrule
+Margem de contribuição & financeiro \\
+\midrule
+Receita média por cliente & financeiro \\
+\midrule
+Clientes ativos & clientes \\
+\midrule
+Renovação de contratos & clientes \\
+\midrule
+Churn de clientes & clientes \\
+\midrule
+NPS & clientes \\
+\midrule
+Atendimentos no SLA & processo \\
+\midrule
+Resolução no primeiro contato & processo \\
+\midrule
+Tempo médio de resolução & processo \\
+\midrule
+Chamados reabertos & processo \\
+\midrule
+Utilização faturável & processo \\
+\midrule
+Horas extras mensais por empregado & aprendizado \\
+\midrule
+Rotatividade de pessoal  & aprendizado \\
+\midrule
+Absenteísmo  & aprendizado \\
+\midrule
+Treinamento por empregado  & aprendizado \\
+\midrule
+Engajamento & aprendizado \\
+ \bottomrule                                                                    
+ \end{tabular}\\
+ Face a tantos indicadores fora da meta uma analise mais criteriosa deve ser realizada, entendemos que não se trata de um problema especifico de cada setor e sim problemas de ordem sistêmica. De qualquer forma recomendamos iniciar pelo indicador de Horas de Retrabalho; para um acréscimo de 20\% no número de peças produzidas o tempo de retrabalho foi acrecido em 83\%.
+\subsection{Questão 6.4}
+Identifique pelo menos quatro relações de causa e efeito. Diferencie as relações apoiadas pelos dados das hipóteses que ainda exigem investigação.
+\textbf{Resposta}\\
+\begin{itemize}
+\item Treinamento e Tempo médio de resolução\\
+  A meta de 24 horas de treinamento por funcionário indica a necessidade de atualização constante, esta atualização esta diretamente relacionada ao desempenho dos colaboradores no atendimento ao clientes. A diminuição para o patamar de 10 horas em 2025 podem justificar o aumento do indicador de ``Tempo médio de resolução'' que saiu de 7,5 para 11,2. Estes valors indicam que as horas disponiveis para treinameto são compensadas pelo tempo gasto na solução de problemas.\\
+\item Treinamento e Atendimento de SLA\\
+  Assim coom o item anterios o não atingimento das metas de treinamento são muito custosas para as empresas prestadoras de serviço. O atingimento no nivel de atendimento é diretamente relacionada com a eficácia e eficiencia da prestção do serviço.\\
+\item Outros custos de servços vs Rotatividade de Pessoal\\
+  A rotatividade do pessoal tem uma relação direta com o aumento de Outros Custos de serviços , em especial os custos de contrataçao e de trainamento.
+\item Custos diretos de Pessoal vs Horas extras mensais por empregado\\
+  Não há dúvida que a relação e direta, cabe observar as causas do aumento do numero de horas extras por funcionário.       \subsection{Questão 6.5}
+  A utilização faturável de 88\% deve ser interpretada como eficiência superior? Discuta o indicador em conjunto com horas extras, rotatividade, SLA, reabertura e tempo de resolução.
+ \textbf{Resposta}\\
+  Talvez mais apropriado seria dizer que é um indicador de eficácia , a medida que mais disponibilidade de tempo para faturamento indica que os funcionários estão mais tempo disponíveis para fazer o que traz receia para a empresa e menos tempo executando tarefas segundárias. Assim por isso a meta para o indicador é de 95\%. No caso em questão observa-se inconsistênci desse indicador com outros também relacionados a eficácia e eficiência. O aumento no numero de horas extras aumentado significa que parte das horas disponíveis para faturamento não aconteceu no horário normal de trabalho, em tese horas exetras só deveriam ocorrer com niveis mais altos de utilização faturável. Outro indicativo de inconsistência é a diminuição das horas de trainamento, poderia indicar que horas deveriam estar em trainamento foram disponibilizadas para faturamento, mas outra vez essa situação so deveria ocorrer se a Utilização faturável estivesse acima dos 95\%.
+\subsection{Questão 6.6}
+Compare as carteiras. A empresa deve acelerar, manter ou suspender temporariamente as vendas da Premium? Defenda uma alternativa e apresente os riscos da decisão.\\
+\textbf{Resposta}\\
+A sustentabilidade de uma empresa também depende da capacidade de inovação, considerando que o atendimento promioum é uma inovação de processo entendo que é promaturo descontinuar a nova atividade, mesmo com as evidências de piora nos niveis gerais de atendimento e na rentabilidade da empresa. No memento a prudencia recomendaria desacelerar a implentação de inovação, identificar as causas dos problemas, e tentar senar os problemas. Não existem crescimento, inovação ou mudança sem esforço e risco. A revisão do plano de implantação da nova modalidade de atendimento deve ser revisado, em especial a gestão de riscos.\\
+\begin{minipage}{\textwidth}
+\subsection{Questão 6.7}
+Construa um Balanced Scorecard enxuto, com dois indicadores por perspectiva. Para cada indicador,
+informe meta, periodicidade e responsável.
+\hspace*{-2cm}
+\begin{tabular}{p{3cm} p{4cm} p{3cm} p{2cm} p{2cm}}                                                     
+ \toprule                                                                       
+   \textbf{erpectivaProblema} & \text{Ação} & \textbf{Indicador} & \textbf{Meta} & \textbf{Prazo}  \\
+ \midrule
+   Deterioração dos indicadores de desempenho & Limitar em 100.000 a produção. & Indicadores atuais & Atingir todas as metas dos atuais  indicadores & 2 meses \\
+ \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Implementar programa Kaisen (foco nos processos). Cada setor será encarregado de um indicador de desempenho e deverá apresentar propostas de inovação, com o esboço de um plano de ação, de forma a permitir o aumento de produção sem prejuízo do indicador em analise. & Quantidade de propostas & Duas propostas por setor & 2 meses \\
+  \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Instituir relatórios semanal de análise de problemas a ser elaborado pelo gerente de cada setor & Entrega do Relatório & Um por semana & Até a estabilização dos indicadores de desempenho \\
+  \midrule
+   Deterioração dos indicadores de desempenho face ao aumento de produção & Revesar a adequação dos indicadores & Entrega do Relatório & Relatório completo de revisão de indicadores de desempenho & 2 meses \\
+ \bottomrule                                                                    
+ \end{tabular}
+\end{minipage}
+\subsection{Questão 6.8}
+Proponha um plano com quatro ações prioritárias e elabore um parecer gerencial de 12 a 18 linhas.
+\textbf{Resposta}\\
+\end{document}

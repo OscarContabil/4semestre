@@ -1,0 +1,96 @@
+sc324MQ> dada uma amostra \[
+ 2 3 4 6 7 11 3 6\]
+ Vamos passo a passo. Calcular media mediana e desvio Padrão.
+
+GPT>
+Vamos passo a passo com a amostra: \[
+ \[
+2, 3, 4, 6, 7, 11, 3, 6\]
+ \]
+                
+
+1) Média                                                                        
+
+Somamos todos os valores: \[
+ 2+3+4+6+7+11+3+6 = 42 \]
+ Como são 8 valores:
+ \[     
+\bar{x} = \frac{42}{8} = 5{,}25
+\]
+                                               
+
+Média = 5,25                                                                    
+
+--------------------------------------------------------------------------------
+
+2) Mediana                                                                      
+
+Primeiro, ordenamos os dados: \[
+ \[
+2, 3, 3, 4, 6, 6, 7, 11\]
+ \]
+ Como há 8 valores, a
+mediana é a média entre o 4º e o 5º valores:                                    
+
+ • 4º = 4                                                                       
+ • 5º = 6 \[
+ \text{mediana} = \frac{4+6}{2} = 5 \]
+                                
+
+Mediana = 5                                                                     
+
+--------------------------------------------------------------------------------
+
+3) Desvio padrão                                                                
+
+Vou calcular o desvio padrão amostral.                                          
+
+Passo 1: calcular os desvios em relação à média 5,25                            
+
+                                                                                
+ valor                                                   valor - 5,25  quadrado 
+ ────────────────────────────────────────────────────────────────────────────── 
+ 2                                                              -3,25   10,5625 
+ 3                                                              -2,25    5,0625 
+ 4                                                              -1,25    1,5625 
+ 6                                                               0,75    0,5625 
+ 7                                                               1,75    3,0625 
+ 11                                                              5,75   33,0625 
+ 3                                                              -2,25    5,0625 
+ 6                                                               0,75    0,5625 
+ Somando os quadrados:                                                          
+ \[                                                                         
+ 10{,}5625 + 5{,}0625 + 1{,}5625 + 0{,}5625 + 3{,}0625                          
+ + 33{,}0625 + 5{,}0625 + 0{,}5625 = 59{,}5                                     
+ \]
+                                                                              
+                                                                                
+
+Passo 2: variância amostral                                                     
+
+\[
+ s^2 = \frac{59{,}5}{8-1} = \frac{59{,}5}{7} \approx 8{,}5 \]
+                   
+
+Passo 3: desvio padrão                                                          
+
+\[
+ s = \sqrt{8{,}5} \approx 2{,}92 \]
+                                             
+
+Desvio padrão amostral ≈ 2,92                                                   
+
+--------------------------------------------------------------------------------
+
+Resultado final                                                                 
+
+ • Média: 5,25                                                                  
+ • Mediana: 5                                                                   
+ • Desvio padrão: 2,92 Se quiser, no próximo passo eu posso calcular também:    
+ • a variância                                                                  
+ • o coeficiente de variação                                                    
+ • e os Z-scores dessa amostra.                                                 
+
+Tokens: entrada=10876, cache=0, saída=678, total=11554, custo=US$ 0.011208
+
+sc324MQ> 

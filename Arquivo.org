@@ -28,3 +28,218 @@ CLOSED: [2026-09-04 sex 09:40] DEADLINE: <2026-09-03 qui 15:00>
 :LOGBOOK:
 - State "DONE"       from "NEXT"       [2026-09-04 sex 09:40]
 :END:
+
+* DONE Ressonancia Magnética Seios da Face
+CLOSED: [2026-09-15 ter 10:20] DEADLINE: <2026-09-12 sáb 09:55>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-15 ter 10:49
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-15 ter 10:20]
+- State "DONE"       from "NEXT"       [2026-09-15 ter 10:20]
+:END:
+
+* DONE Lista caso Nexuz
+CLOSED: [2026-09-15 ter 10:50] DEADLINE: <2026-09-02 qua>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-15 ter 10:51
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC308 - ANÁLISE DE CUSTOS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-15 ter 10:50]
+:END:
+
+
+* DONE Listas de 1 a 4 <2026-09-01 ter>
+CLOSED: [2026-09-15 ter 10:51] DEADLINE: <2026-09-13 dom>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-15 ter 10:51
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC324 - MÉTODOS QUANTITATIVOS AVANÇADOS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-15 ter 10:51]
+:END:
+
+
+* DONE Revisar as listas de exercícios
+CLOSED: [2026-09-17 qui 20:19] DEADLINE: <2026-08-26 qua>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-17 qui 20:20
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC308 - ANÁLISE DE CUSTOS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-17 qui 20:19]
+:END:
+
+
+* DONE  Lista de exercíciios 2
+CLOSED: [2026-09-21 seg 10:39]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-21 seg 10:41
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC304 - ESTRUTURA E ELABORAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-21 seg 10:39]
+:END:
+Deadline: <2026-08-26 qua>
+
+* DONE Palestra no CRC sobre reforma tributária.
+CLOSED: [2026-09-21 seg 10:42] DEADLINE: <2026-09-21 seg 08:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-21 seg 10:42
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-21 seg 10:42]
+:END:
+
+
+* DONE travesia Itapema. Onibus as 8:30 poltrona 28 Reserva Hotel Solaris # 029369 entrada dia 19 os3...
+CLOSED: [2026-09-21 seg 10:43] DEADLINE: <2026-09-19 sáb 8:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-21 seg 10:43
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-21 seg 10:43]
+:END:
+
+
+* DONE   Consulta Paulo Albuquerque
+CLOSED: [2026-09-21 seg 10:44] DEADLINE: <2026-09-18 sex 11:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-21 seg 10:44
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "BACKLOG"    [2026-09-21 seg 10:44]
+- State "DONE"       from "NEXT"       [2026-09-21 seg 10:44]
+:END:
+
+
+* DONE  Site Lucas Saldo
+CLOSED: [2026-09-27 dom 22:31] DEADLINE: <2026-09-23 qua 14:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-27 dom 22:31
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-27 dom 22:31]
+:END:
+
+
+* DONE <2026-09-14 seg> fazer a rotina que escreva çã çõ ê é e outros centos
+CLOSED: [2026-09-27 dom 22:39]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-27 dom 22:39
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS/À Planejar
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-27 dom 22:39]
+:END:
+
+
+* DONE Estudo de Caso 1
+CLOSED: [2026-09-27 dom 22:50] DEADLINE: <2026-09-21 seg>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-27 dom 22:50
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC334  - Analise de desempenho Organizacional
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-27 dom 22:50]
+:END:
+
+**  [file:/home/oscar/4semestre/sc334AvalDesemp/Caso_1_Industria_Versao_do_Aluno.pdf][pdf}]
+
+* DONE Estido de Caso 2
+CLOSED: [2026-09-27 dom 22:50] DEADLINE: <2026-09-21 seg>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-27 dom 22:50
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC334  - Analise de desempenho Organizacional
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-27 dom 22:50]
+:END:
+
+** [file:/home/oscar/4semestre/sc334AvalDesemp/Caso_2_Servicos_Versao_do_Aluno.pdf][pdf}]
+
+* DONE Reconsulta DR Francisco Polansk
+CLOSED: [2026-09-28 seg 16:49] DEADLINE: <2026-09-28 seg 8:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-28 seg 16:49
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-09-28 seg 16:49]
+:END:
+
+
+* DONE T<2026-09-29 ter> TODO Consulta Dr. Armando Secondino Ortopedista
+CLOSED: [2026-10-02 sex 18:11] DEADLINE: <2026-10-01 qui 11:15>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-10-02 sex 18:12
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: PESSOAIS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-10-02 sex 18:11]
+:END:
+
+** Consultório na Clínica Belluno Av. Vicente Machado 2322
+** Valor da consulta R$ 500,00
+
+* DONE <2026-09-22 ter>  ler capitulo de Custos ABC livro garison
+CLOSED: [2026-10-05 seg 18:52]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-10-05 seg 18:52
+:ARCHIVE_FILE: ~/4semestre/atividades.org
+:ARCHIVE_OLPATH: SC308 - ANÁLISE DE CUSTOS
+:ARCHIVE_CATEGORY: atividades
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-10-05 seg 18:52]
+:END:
+
